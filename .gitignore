@@ -1,0 +1,12 @@
+# Intellij
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Maven
+log/
+target/
+
+# Tomcat Embedded
+tomcat/
