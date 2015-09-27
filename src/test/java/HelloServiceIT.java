@@ -1,3 +1,5 @@
+package java;
+
 import org.assertj.core.api.Assertions;
 import org.junit.AfterClass;
 import org.junit.BeforeClass;
